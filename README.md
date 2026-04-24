@@ -77,7 +77,7 @@ Important settings:
 
 The transfer button uses Hermes target specs, for example:
 
-- `telegram:-1001234567890:17585`
+- `telegram:<chat_id>:<thread_id>`
 - `discord:#bot-home`
 - `slack:#engineering`
 

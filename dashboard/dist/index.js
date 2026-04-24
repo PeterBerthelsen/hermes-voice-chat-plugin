@@ -1259,10 +1259,10 @@
                 id: "voice-transfer-target",
                 className: "voice-text-input",
                 value: transferTarget,
-                placeholder: "telegram:-1001234567890:17585",
+                placeholder: "telegram:<chat_id>:<thread_id>",
                 onChange: function (event) { setTransferTarget(event.target.value); },
               }),
-              h("div", { className: "voice-field-help" }, "Use any Hermes target such as telegram:-1001234567890:17585 or discord:#bot-home.")
+              h("div", { className: "voice-field-help" }, "Use any Hermes target such as telegram:<chat_id>:<thread_id> or discord:#bot-home.")
             ),
             h("div", { className: "voice-settings-row" },
               h(Label, { htmlFor: "voice-transfer-label" }, "Transfer button label"),
