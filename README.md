@@ -22,6 +22,20 @@ hermes gateway restart
 
 Then open the Hermes dashboard and click the **Voice** tab.
 
+## Screenshots
+
+### Main voice UI
+
+![Main voice UI](assets/screenshots/voice-ui.jpg)
+
+### Dashboard ribbon with Voice tab
+
+![Dashboard ribbon with Voice tab](assets/screenshots/voice-ribbon-tab.jpg)
+
+### Voice customization panel
+
+![Voice customization panel](assets/screenshots/voice-customization.jpg)
+
 ### From a local clone
 
 ```bash
