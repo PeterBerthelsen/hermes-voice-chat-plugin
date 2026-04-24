@@ -1,0 +1,5 @@
+manifest_version: 1
+name: voice
+version: "0.1.0"
+description: Mobile-first voice chat dashboard for Hermes with persistent sessions and Telegram handoff.
+author: Peter Berthelsen

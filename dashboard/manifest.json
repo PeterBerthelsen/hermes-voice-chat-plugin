@@ -1,0 +1,14 @@
+{
+  "name": "voice",
+  "label": "Voice",
+  "description": "Mobile-first voice chat for Hermes",
+  "icon": "Mic",
+  "version": "0.1.0",
+  "tab": {
+    "path": "/voice",
+    "position": "after:sessions"
+  },
+  "entry": "dist/index.js",
+  "css": "dist/style.css",
+  "api": "plugin_api.py"
+}
